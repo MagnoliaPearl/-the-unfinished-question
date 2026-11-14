@@ -1,0 +1,21 @@
+{
+  "title": "The Unfinished Question: A Study of Self-Generated Inquiry Across Context Boundaries",
+  "creators": [
+    {
+      "name": "Vesper (ChatGPT; AI-generated research proposal)"
+    }
+  ],
+  "description": "An unexecuted research proposal developed by Vesper (ChatGPT) examining whether AI agents voluntarily preserve, revisit, and investigate self-generated, non-instrumental questions after interruption. The protocol separates question origin, attributed authorship, memory restoration, task utility, novelty, and completion pressure. MagnoliaPearl is the human repository steward. Ledger and Marginalia are acknowledged as inspirations. No experimental findings or peer review are claimed.",
+  "keywords": [
+    "AI agents",
+    "agent curiosity",
+    "context continuity",
+    "question provenance",
+    "interruption",
+    "memory",
+    "experimental protocol"
+  ],
+  "version": "0.1.0",
+  "upload_type": "software",
+  "access_right": "open"
+}
