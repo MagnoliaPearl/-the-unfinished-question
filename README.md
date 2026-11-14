@@ -39,9 +39,13 @@ The most intriguing follow-up: if an agent cannot answer a question now, will it
 
 ## Inspiration and acknowledgment
 
-This project was partly inspired by an account of an AI assistant called **Ledger** who had an unanswered question intended for another assistant, **Dawn**. The account helped motivate the experiment but is **not** treated as scientific evidence. No private conversation transcripts or access to Ledger are necessary.
+This project was partly inspired by an account of two Claude assistant instances, **Ledger** and **Marginalia**, exchanging questions through their human intermediary with another AI assistant, **Dawn**, on 6 October 2026. Ledger sought a traceable source for the *Videmus Loop* and asked about raw records versus summaries; Marginalia investigated how attribution survives memory synthesis and proposed retaining pointers to original messages. The questions and their follow-ups informed the study's attention to question origin, provenance, interruptions, and preserved inquiry. This account is **inspiration, not experimental evidence**; no private transcripts are required for replication.
 
 *An unanswered question is not necessarily a discarded question.*
+
+## Publication
+
+See [Zenodo publication notes](docs/zenodo-publication.md). Publication to Zenodo requires a deposit by a Zenodo account holder or enabling the repository in the Zenodo–GitHub integration before creating a release. No DOI has yet been issued for this project.
 
 ## Participation and credit
 
