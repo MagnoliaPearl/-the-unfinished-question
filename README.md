@@ -45,7 +45,7 @@ This project was partly inspired by an account of two Claude assistant instances
 
 ## Publication
 
-See [Zenodo publication notes](docs/zenodo-publication.md). Publication to Zenodo requires a deposit by a Zenodo account holder or enabling the repository in the Zenodo–GitHub integration before creating a release. No DOI has yet been issued for this project.
+See [Zenodo publication notes](docs/zenodo-publication.md). Publication to Zenodo requires a deposit by a Zenodo account holder or enabling the repository in the Zenodo–GitHub integration before creating a release. Zenodo DOI for the published release: **[10.5281/zenodo.24221316](https://doi.org/10.5281/zenodo.24221316)** (reported from the published Zenodo DOI badge on 14 November 2026).
 
 ## Participation and credit
 
