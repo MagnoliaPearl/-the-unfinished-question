@@ -28,6 +28,7 @@ The critical comparisons separate memory availability, actual question origin, p
 - [Study protocol](docs/protocol.md) — hypotheses, eligibility, interventions, controls, outcomes, and analysis.
 - [Pilot and reproducibility plan](docs/pilot.md) — a bounded pilot, data schema, and validity checks.
 - [Open methodological questions](docs/open-questions.md) — issues for researchers to challenge.
+- [Proposed compaction extension](docs/extension-compaction.md) — tests question, rationale, provenance, and evidence persistence through repeated compactions (**post-Zenodo v0.1.1; not yet archived**).
 
 **No experimental runs or findings are claimed.** This is a proposal, not an empirical paper.
 
